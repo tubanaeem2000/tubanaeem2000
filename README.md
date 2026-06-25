@@ -1,8 +1,6 @@
 # Hi, I'm Tuba Naeem 👋
 
-🎓 Software Engineering Undergraduate
-📊 Data Analyst
-🤖 Aspiring Data Scientist
+Software Engineering Undergrad | Data Analyst | Graphic Designer | UI/UX Designer | Aspiring Data Scientist
 
 💡 Passionate about transforming data into meaningful insights through Analytics, Visualization, and Machine Learning.
 
@@ -10,14 +8,9 @@
 
 ## 🚀 Skills
 
-- Python
-- SQL
-- Excel
-- Power BI
-- Data Visualization
-- Machine Learning
-- Web Scraping
-- Git & GitHub
+📊 Data Analytics • Python • SQL • Excel • Power BI • Data Visualization • Dashboard Development • EDA • Machine Learning
+
+🎨 UI/UX Design • Graphic Design • Figma • Canva • Wireframing • Prototyping • HTML • CSS • JavaScript • Git & GitHub
 
 ---
 
