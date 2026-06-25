@@ -16,13 +16,13 @@ Software Engineering Undergraduate | Data Analyst | Aspiring Data Scientist | UI
 
 ## 🔗 Connect With Me
 
-💼 LinkedIn  
+💼 LinkedIn
 https://www.linkedin.com/in/tuba-naeem-469742242/
 
-📊 Kaggle  
+📊 Kaggle
 https://www.kaggle.com/tubanaeem
 
-🎨 Behance <br>
+🎨 Behance
 https://www.behance.net/tubanaeem
 
 ---
