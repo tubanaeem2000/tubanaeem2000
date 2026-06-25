@@ -10,7 +10,7 @@ Software Engineering Undergrad | Data Analyst | Graphic Designer | UI/UX Designe
 
 📊 Data Analytics • Python • SQL • Excel • Power BI • Data Visualization • Dashboard Development • EDA • Machine Learning
 
-🎨 UI/UX Design • Graphic Design • Figma • Canva • Wireframing • Prototyping • HTML • CSS • JavaScript • Git & GitHub
+🎨 UI/UX Design • Graphic Design • Figma • Canva • Illustrator • Prototyping • HTML • CSS • JavaScript • Git & GitHub
 
 ---
 
