@@ -22,8 +22,8 @@ https://www.linkedin.com/in/tuba-naeem-469742242/
 📊 Kaggle  
 https://www.kaggle.com/tubanaeem
 
-💻 GitHub  
-https://github.com/tubanaeem2000
+🎨 Behance
+https://www.behance.net/tubanaeem
 
 ---
 
