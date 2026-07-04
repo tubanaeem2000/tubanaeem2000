@@ -1,6 +1,6 @@
 # Hi, I'm Tuba Naeem 👋
 
-Software Engineering Undergraduate | Data Analyst | Aspiring Data Scientist | UI/UX Designer | Graphic Designer
+JUW'23 | Software Engineering Undergrad | Data Analyst | Data Science Enthusiast | UI/UX Designer | Graphic Designer
 
 💡 Passionate about transforming data into meaningful insights through Analytics, Visualization, and Machine Learning.
 
