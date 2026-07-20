@@ -18,7 +18,7 @@
 - 📊 Passionate about transforming data into meaningful insights through **Analytics, Visualization & Machine Learning**
 - 🎨 Also a **UI/UX & Graphic Designer** — I love clean, elegant, purposeful design
 - 🧵 Founder of **TeeVibes**, my own garments brand
-- 💬 Ask me about **Data Analysis, Dashboards, Flutter, Firebase, or Prototyping**
+- 💬 Ask me about **Data Analysis, Dashboards, or Prototyping**
 - 📫 Reach me at the links below — always open to connect!
 
 <br clear="right"/>
@@ -29,46 +29,21 @@
 
 ### 🛠️ Tech Stack & Tools
 
-</div>
-
-<div align="center">
-
 **📊 Data & Analytics**
 
-<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" height="45"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/EDA-4B8BBE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=py,mysql&theme=dark" height="50"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
 **🎨 Design & Prototyping**
 
-<img src="https://skillicons.dev/icons?i=figma,html,css,javascript&theme=dark" height="45"/>
+<img src="https://skillicons.dev/icons?i=figma,ai,html,css,js&theme=dark" height="50"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
 
 **⚙️ Dev & Tools**
 
-<img src="https://skillicons.dev/icons?i=flutter,firebase,git,github,vscode&theme=dark" height="45"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 📈 GitHub Stats
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tubanaeem2000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tubanaeem2000&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tubanaeem2000&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=tubanaeem2000&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8"/>
+<img src="https://skillicons.dev/icons?i=firebase,git,github,vscode&theme=dark" height="50"/>
 
 </div>
 
