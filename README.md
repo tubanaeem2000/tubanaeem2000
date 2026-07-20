@@ -17,7 +17,6 @@
 - 🎓 Final-year **B.S. Software Engineering** student at **Jinnah University for Women (JUW)**, Karachi
 - 📊 Passionate about transforming data into meaningful insights through **Analytics, Visualization & Machine Learning**
 - 🎨 Also a **UI/UX & Graphic Designer** — I love clean, elegant, purposeful design
-- 🧵 Founder of **TeeVibes**, my own garments brand
 - 💬 Ask me about **Data Analysis, Dashboards, or Prototyping**
 - 📫 Reach me at the links below — always open to connect!
 
@@ -43,7 +42,7 @@
 
 **⚙️ Dev & Tools**
 
-<img src="https://skillicons.dev/icons?i=firebase,git,github,vscode&theme=dark" height="50"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="50"/>
 
 </div>
 
