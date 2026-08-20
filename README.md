@@ -5,12 +5,12 @@
 🎨 Also a UI/UX & Graphic Designer — I love clean, elegant, purposeful design
 💬 Ask me about Data Analysis, Dashboards, or Prototyping
 📫 Reach me at the links below — always open to connect!
-<div align="center">
+<br/> <div align="center">
 🛠️ Tech Stack & Tools
 
 📊 Data & Analytics
 
-<img src="https://skillicons.dev/icons?i=py,mysql&theme=dark" height="50"/>   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>  <img src="https://img.shields.io/badge/Seaborn-444876?style=for-the-badge&logo=seaborn&logoColor=white"/>  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+<img src="https://skillicons.dev/icons?i=py,mysql&theme=dark" height="50"/>   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-444876?style=for-the-badge&logo=seaborn&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
 
 🎨 Design & Prototyping
 
@@ -18,14 +18,8 @@
 
 ⚙️ Dev & Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="50"/> </div>
-<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="50"/> </div> <br/> <div align="center">
 🌱 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tubanaeem2000&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area_color=1E3A8A&area=true&hide_border=true"/> </div>
-<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tubanaeem2000&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area_color=1E3A8A&area=true&hide_border=true"/> </div> <br/> <div align="center">
 🔗 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/tuba-naeem-469742242/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/> </a> &nbsp;&nbsp; <a href="https://www.kaggle.com/tubanaeem" target="_blank"> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="32"/> </a> &nbsp;&nbsp; <a href="https://www.behance.net/tubanaeem" target="_blank"> <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" height="32"/> </a> </p> <br/>
-
-Show Image
-
-</div> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A8A,100:0B1F3A&height=100&section=footer"/>
+<p align="center"> <a href="https://www.linkedin.com/in/tuba-naeem-469742242/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.kaggle.com/tubanaeem" target="_blank"> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="32"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.behance.net/tubanaeem" target="_blank"> <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" height="32"/> </a> </p> </div> <br/> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A8A,100:0B1F3A&height=100&section=footer"/>
