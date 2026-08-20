@@ -24,9 +24,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tubanaeem2000&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area_color=1E3A8A&area=true&hide_border=true"/> </div>
 <div align="center">
 🔗 Connect With Me
-<a href="https://www.linkedin.com/in/tuba-naeem-469742242/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://www.kaggle.com/tubanaeem" target="_blank"> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/> </a> <a href="https://www.behance.net/tubanaeem" target="_blank"> <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/> </a>
-
-<br/><br/>
+<p align="center"> <a href="https://www.linkedin.com/in/tuba-naeem-469742242/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/> </a> &nbsp;&nbsp; <a href="https://www.kaggle.com/tubanaeem" target="_blank"> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="32"/> </a> &nbsp;&nbsp; <a href="https://www.behance.net/tubanaeem" target="_blank"> <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" height="32"/> </a> </p> <br/>
 
 Show Image
 
